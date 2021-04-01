@@ -5,8 +5,8 @@ int main()
     char line[10] ="majority";
     char line2[10]="ask";
     if( strcmp( line, line2 ) > 0){
-        printf("¥ªÃä¤j\n");
+        printf("左邊大\n");
     }else{
-        printf("¥kÃä¤j\n");
+        printf("右邊大\n");
     }
 }
