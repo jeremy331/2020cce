@@ -1,4 +1,3 @@
-```java
 void setup(){  
   size(1024,400);
 }
@@ -12,4 +11,4 @@ int a=0;
 void mousePressed(){
   a++;
 }
-```
+
